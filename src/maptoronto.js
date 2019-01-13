@@ -131,9 +131,9 @@ export class mapToronto extends React.Component {
             <React.Fragment>
                 <div>
                     <div className="title-background">
-                        <h1>
-                            ParkN
-                        </h1>
+                        <header className="App-header">
+                            <img height="150px" src="https://scontent.fyto1-1.fna.fbcdn.net/v/t1.0-9/49853184_2250438568504367_7531278595814064128_n.jpg?_nc_cat=110&_nc_ht=scontent.fyto1-1.fna&oh=f4389f6d0e70f30b12da00212e78a67b&oe=5CC57FDD"/>
+                        </header>
                     </div>
                 </div>
                 <div>
